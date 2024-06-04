@@ -127,7 +127,7 @@ export const benefits = [
     title: "Portfolio Website",
     text: "A responsive web portfolio with intractive elements. Utilizes React.js and Three.js to generate 3d models. Features Tailwindcss to help style the website!",
     backgroundUrl: "assets/benefits/card-3.svg",
-    destinationUrl: "https://www.google.ca/",
+    destinationUrl: "https://github.com/KowshikanN/KowshikanN-Portfolio",
     iconUrl: benefitIcon3,
     imageUrl: benefitImage2,
     light: true,
